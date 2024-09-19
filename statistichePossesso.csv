@@ -1,0 +1,97 @@
+Pos.,Squadra,Paese,LgRk,PG,V,N,P,Rf,Rs,DR,Pt,Pts/MP,xG,xGA,xGD,xGD/90,Ultime 5,Spettatori,Miglior marcatore della squadra,Portiere
+1,Barcelona,es ESP,1,5,5,0,0,17,4,+13,15,"3,00",12.9,4.2,+8.7,"+1,75",V V V V V,45.404,Robert Lewandowski - 4,Marc-André ter Stegen
+2,Paris S-G,fr FRA,1,4,4,0,0,16,3,+13,12,"3,00",12.1,3.2,+8.9,"+2,21",V V V V,46.000,Bradley Barcola - 4,Gianluigi Donnarumma
+3,Bayern Munich,de GER,1,3,3,0,0,11,3,+8,9,"3,00",7.1,3.2,+3.9,"+1,31",V V V,75.000,Harry Kane - 4,Manuel Neuer
+4,Manchester City,eng ENG,1,4,4,0,0,11,3,+8,12,"3,00",9.2,2.9,+6.3,"+1,57",V V V V,53.147,Erling Haaland - 9,Ederson
+5,Marseille,fr FRA,2,4,3,1,0,12,4,+8,10,"2,50",6.9,5.0,+1.9,"0,47",V N V V,64.822,Mason Greenwood - 5,Gerónimo Rulli
+6,Monaco,fr FRA,3,4,3,1,0,7,1,+6,10,"2,50",8.6,3.2,+5.4,"+1,34",V V N V,11.640,Denis Zakaria - 2,Philipp Köhn
+7,Arsenal,eng ENG,2,4,3,1,0,6,1,+5,10,"2,50",5.0,4.2,+0.8,"0,20",V V N V,60.294,Kai Havertz - 2,David Raya
+8,Newcastle Utd,eng ENG,3,4,3,1,0,6,3,+3,10,"2,50",5.2,6.5,-1.3,"-0,32",V N V V,52.204,Harvey Barnes - 2,Nick Pope
+9,Udinese,it ITA,1,4,3,1,0,7,4,+3,10,"2,50",5.2,6.9,-1.7,"-0,42",N V V V,,Florian Thauvin - 3,Maduka Okoye
+10,Dortmund,de GER,2,3,2,1,0,6,2,+4,7,"2,33",4.9,3.5,+1.4,"0,48",V N V,81.365,"Karim Adeyemi, Jamie Gittens - 2",Gregor Kobel
+11,RB Leipzig,de GER,3,3,2,1,0,4,2,+2,7,"2,33",3.7,3.8,-0.1,"-0,03",V V N,46.206,Loïs Openda - 2,Péter Gulácsi
+12,Liverpool,eng ENG,4,4,3,0,1,7,1,+6,9,"2,25",7.8,2.8,+5.0,"+1,26",V V V P,60.017,"Mohamed Salah, Luis Díaz - 3",Alisson
+13,Napoli,it ITA,2,4,3,0,1,9,4,+5,9,"2,25",7.5,5.1,+2.4,"0,60",P V V V,,"Romelu Lukaku, Khvicha Kvaratskhelia... - 2",Alex Meret
+14,Aston Villa,eng ENG,5,4,3,0,1,7,6,+1,9,"2,25",6.7,4.5,+2.2,"0,55",V P V V,41.587,Jhon Durán - 3,Emiliano Martínez
+15,Real Madrid,es ESP,2,5,3,2,0,9,2,+7,11,"2,20",10.0,3.8,+6.2,"+1,23",N V N V V,71.625,Kylian Mbappé - 3,Thibaut Courtois
+16,Atlético Madrid,es ESP,3,5,3,2,0,9,2,+7,11,"2,20",9.4,2.5,+6.9,"+1,39",N V N V V,59.612,"Antoine Griezmann, Marcos Llorente - 2",Jan Oblak
+17,Villarreal,es ESP,4,5,3,2,0,11,8,+3,11,"2,20",7.5,6.2,+1.3,"0,25",N V V N V,20.609,Ayoze Pérez - 3,Diego Conde
+18,Juventus,it ITA,4,4,2,2,0,6,0,+6,8,"2,00",3.8,1.5,+2.3,"0,58",V V N N,,Dušan Vlahović - 2,Michele Di Gregorio
+19,Inter,it ITA,3,4,2,2,0,9,3,+6,8,"2,00",7.2,4.0,+3.2,"0,80",N V V N,,Marcus Thuram - 4,Yann Sommer
+20,Heidenheim,de GER,4,3,2,0,1,8,4,+4,6,"2,00",6.0,4.5,+1.4,"0,48",V V P,15.000,"Maximilian Breunig, Paul Wanner - 2",Kevin Müller
+21,Brighton,eng ENG,6,4,2,2,0,6,2,+4,8,"2,00",6.9,4.4,+2.5,"0,62",V V N N,36.555,"Danny Welbeck, João Pedro - 2","Jason Steele, Bart Verbruggen"
+22,Leverkusen,de GER,5,3,2,0,1,9,6,+3,6,"2,00",8.4,3.6,+4.8,"+1,59",V P V,29.615,Florian Wirtz - 3,Lukáš Hrádecký
+23,Lens,fr FRA,4,4,2,2,0,4,1,+3,8,"2,00",7.4,2.8,+4.5,"+1,14",V V N N,37.776,"Wesley Saïd, Przemysław Frankowski... - 1",Brice Samba
+24,Torino,it ITA,5,4,2,2,0,5,3,+2,8,"2,00",4.9,7.6,-2.7,"-0,68",N V V N,,"Duván Zapata, Che Adams... - 1",Vanja Milinković-Savić
+25,Nott'ham Forest,eng ENG,7,4,2,2,0,4,2,+2,8,"2,00",5.0,3.0,+2.0,"0,50",N V N V,29.841,Chris Wood - 2,Matz Sels
+26,Eint Frankfurt,de GER,6,3,2,0,1,5,4,+1,6,"2,00",6.3,4.2,+2.1,"0,68",P V V,57.100,Omar Marmoush - 3,Kevin Trapp
+27,Freiburg,de GER,7,3,2,0,1,5,4,+1,6,"2,00",6.9,2.8,+4.1,"+1,36",V P V,34.400,"Lukas Kübler, Junior Adamu - 2",Florian Müller
+28,Celta Vigo,es ESP,5,5,3,0,2,13,10,+3,9,"1,80",8.3,7.4,+0.9,"0,18",V V P P V,22.555,Borja Iglesias - 3,Iván Villar
+29,Nantes,fr FRA,5,4,2,1,1,6,3,+3,7,"1,75",4.9,4.2,+0.7,"0,17",N V V P,31.077,Moses Simon - 2,Alban Lafont
+30,Chelsea,eng ENG,8,4,2,1,1,8,5,+3,7,"1,75",5.7,5.0,+0.7,"0,18",P V N V,39.558,Noni Madueke - 3,Robert Sánchez
+31,Lazio,it ITA,6,4,2,1,1,8,6,+2,7,"1,75",7.0,3.6,+3.4,"0,85",V P N V,,Valentín Castellanos - 3,Ivan Provedel
+32,Reims,fr FRA,6,4,2,1,1,6,6,0,7,"1,75",2.8,7.4,-4.6,"-1,14",P N V V,13.806,"Junya Ito, Sergio Akieme... - 1",Yehvann Diouf
+33,Union Berlin,de GER,9,3,1,2,0,2,1,+1,5,"1,67",2.3,3.0,-0.7,"-0,23",N V N,22.012,"László Bénes, Benedict Hollerbach - 1",Frederik Rønnow
+34,Werder Bremen,de GER,8,3,1,2,0,4,3,+1,5,"1,67",3.4,2.7,+0.7,"0,23",N N V,42.100,"Marvin Ducksch, Derrick Köhn... - 1",Michael Zetterer
+35,Betis,es ESP,6,5,2,2,1,5,4,+1,8,"1,60",8.1,4.9,+3.2,"0,64",N N P V V,50.240,Giovani Lo Celso - 2,Rui Silva
+36,Rennes,fr FRA,7,4,2,0,2,8,5,+3,6,"1,50",5.2,4.5,+0.7,"0,17",V P P V,26.026,Ludovic Blas - 2,Steve Mandanda
+37,Hellas Verona,it ITA,7,4,2,0,2,6,5,+1,6,"1,50",4.6,4.9,-0.3,"-0,08",V P V P,,"Casper Tengstedt, Daniel Mosquera - 2",Lorenzo Montipò
+38,Empoli,it ITA,8,4,1,3,0,3,2,+1,6,"1,50",4.6,4.7,-0.1,"-0,02",N V N N,,Emmanuel Gyasi - 2,Devis Vásquez
+39,Lille,fr FRA,8,4,2,0,2,5,4,+1,6,"1,50",5.5,4.5,+1.1,"0,26",V V P P,41.170,"Thomas Meunier, Jonathan David... - 1",Lucas Chevalier
+40,Manchester Utd,eng ENG,10,4,2,0,2,5,5,0,6,"1,50",7.9,5.4,+2.4,"0,61",V P P V,73.518,"Matthijs de Ligt, Marcus Rashford... - 1",André Onana
+41,Atalanta,it ITA,9,4,2,0,2,8,8,0,6,"1,50",7.8,7.0,+0.8,"0,20",V P P V,,Mateo Retegui - 4,Marco Carnesecchi
+42,Brentford,eng ENG,9,4,2,0,2,6,6,0,6,"1,50",5.9,7.3,-1.4,"-0,36",V P V P,16.972,"Yoane Wissa, Bryan Mbeumo - 3",Mark Flekken
+43,Le Havre,fr FRA,9,4,2,0,2,6,7,-1,6,"1,50",5.5,5.8,-0.3,"-0,07",P V V P,21.441,Abdoulaye Touré - 2,Arthur Desmas
+44,Rayo Vallecano,es ESP,8,5,2,1,2,7,6,+1,7,"1,40",4.6,4.8,-0.2,"-0,04",V N P P V,13.552,Unai López - 2,Cárdenas
+45,Alavés,es ESP,9,5,2,1,2,7,6,+1,7,"1,40",7.3,5.6,+1.7,"0,35",P N V V P,16.505,Toni Martínez - 2,Antonio Sivera
+46,Espanyol,es ESP,12,5,2,1,2,5,5,0,7,"1,40",6.0,6.9,-1.0,"-0,20",P P N V V,22.514,Javi Puado - 3,Joan García
+47,Girona,es ESP,10,5,2,1,2,8,8,0,7,"1,40",7.9,5.4,+2.4,"0,48",N P V V P,13.583,"Cristhian Stuani, Abel Ruiz - 2",Paulo Gazzaniga
+48,Athletic Club,es ESP,11,5,2,1,2,6,6,0,7,"1,40",4.7,5.9,-1.1,"-0,23",N P V P V,48.369,Oihan Sancet - 3,Julen Agirrezabala
+49,Osasuna,es ESP,13,5,2,1,2,6,10,-4,7,"1,40",3.5,7.3,-3.7,"-0,75",N V P V P,19.790,"Rubén García, Enzo Boyomo... - 1",Sergio Herrera
+50,Mallorca,es ESP,7,6,2,2,2,4,4,0,8,"1,33",5.0,4.6,+0.4,"0,07",P N V P V,19.729,"Abdón Prats, Dani Rodríguez... - 1",Dominik Greif
+51,Stuttgart,de GER,10,3,1,1,1,7,7,0,4,"1,33",6.3,6.0,+0.3,"0,11",P N V,59.000,Ermedin Demirović - 3,Alexander Nübel
+52,Augsburg,de GER,11,3,1,1,1,5,7,-2,4,"1,33",4.4,5.0,-0.6,"-0,20",N P V,30.660,"Marius Wolf, Phillip Tietz... - 1",Nediljko Labrović
+53,Milan,it ITA,10,4,1,2,1,9,6,+3,5,"1,25",7.5,5.0,+2.5,"0,63",N P N V,,Christian Pulisic - 2,Mike Maignan
+54,Strasbourg,fr FRA,10,4,1,2,1,8,7,+1,5,"1,25",6.6,6.2,+0.4,"0,10",N V P N,19.026,"Sebastian Nanasi, Emanuel Emegha... - 2",Karl-Johan Johnsson
+55,Fulham,eng ENG,12,4,1,2,1,4,4,0,5,"1,25",4.6,4.2,+0.4,"0,10",P V N N,25.965,"Adama Traoré, Raúl Jiménez... - 1",Bernd Leno
+56,Bournemouth,eng ENG,11,4,1,2,1,5,5,0,5,"1,25",7.6,5.5,+2.0,"0,51",N N V P,11.198,Antoine Semenyo - 2,Neto
+57,Toulouse,fr FRA,11,4,1,2,1,4,4,0,5,"1,25",5.0,2.8,+2.2,"0,55",N N P V,22.335,Shavy Babicka - 3,Guillaume Restes
+58,Genoa,it ITA,11,4,1,2,1,4,5,-1,5,"1,25",5.5,6.0,-0.5,"-0,13",N V P N,,"Alessandro Vogliacco, Andrea Pinamonti... - 1",Pierluigi Gollini
+59,Tottenham,eng ENG,13,4,1,1,2,6,4,+2,4,"1,00",5.5,4.5,+1.0,"0,26",N V P P,61.501,Son Heung-min - 2,Guglielmo Vicario
+60,Wolfsburg,de GER,12,3,1,0,2,5,5,0,3,"1,00",4.7,6.0,-1.3,"-0,44",P V P,28.141,Lovro Majer - 2,Kamil Grabara
+61,Nice,fr FRA,12,4,1,1,2,6,6,0,4,"1,00",6.1,4.9,+1.2,"0,30",P N V P,21.656,Evann Guessand - 2,Marcin Bułka
+62,West Ham,eng ENG,14,4,1,1,2,5,6,-1,4,"1,00",5.1,7.8,-2.7,"-0,67",P V P N,62.466,"Danny Ings, Tomáš Souček... - 1",Alphonse Areola
+63,Gladbach,de GER,13,3,1,0,2,5,6,-1,3,"1,00",6.1,5.5,+0.6,"0,20",P V P,54.042,Tim Kleindienst - 2,Jonas Omlin
+64,Parma,it ITA,12,4,1,1,2,6,7,-1,4,"1,00",6.0,7.3,-1.3,"-0,33",N V P P,,"Dennis Man, Ange-Yoan Bonny - 2",Zion Suzuki
+65,Sevilla,es ESP,14,5,1,2,2,4,6,-2,5,"1,00",6.0,6.1,-0.1,"-0,02",N P N P V,34.127,"Jesús Navas, Dodi Lukebakio... - 1",Ørjan Nyland
+66,Leganés,es ESP,15,5,1,2,2,3,5,-2,5,"1,00",3.0,6.8,-3.8,"-0,76",N V N P P,10.267,Juan Cruz - 2,Juan Soriano
+67,Hoffenheim,de GER,14,3,1,0,2,5,9,-4,3,"1,00",5.3,7.6,-2.3,"-0,76",V P P,24.327,Andrej Kramarić - 4,Oliver Baumann
+68,Lyon,fr FRA,13,4,1,1,2,4,8,-4,4,"1,00",5.5,8.0,-2.5,"-0,62",P P V N,49.099,Gift Orban - 2,Lucas Perri
+69,Lecce,it ITA,13,4,1,1,2,1,6,-5,4,"1,00",5.1,6.4,-1.3,"-0,32",P P V N,,Nikola Krstović - 1,Wladimiro Falcone
+70,Valladolid,es ESP,17,5,1,1,3,2,13,-11,4,"0,80",3.3,9.4,-6.1,"-1,22",V P N P P,21.896,Raúl Moro - 2,Karl Jakob Hein
+71,Fiorentina,it ITA,14,4,0,3,1,5,6,-1,3,"0,75",5.4,4.3,+1.1,"0,27",N N N P,,Moise Kean - 2,Pietro Terracciano
+72,Monza,it ITA,15,4,0,3,1,3,4,-1,3,"0,75",1.3,4.8,-3.5,"-0,88",N P N N,,"Milan Đurić, Dany Mota... - 1","Stefano Turati, Semuel Pizzignacco"
+73,Roma,it ITA,16,4,0,3,1,2,3,-1,3,"0,75",5.6,5.4,+0.2,"0,06",N P N N,,"Eldor Shomurodov, Artem Dovbyk - 1",Mile Svilar
+74,Bologna,it ITA,17,4,0,3,1,4,7,-3,3,"0,75",6.3,5.5,+0.8,"0,20",N P N N,,"Riccardo Orsolini, Samuel Iling-Junior... - 1",Łukasz Skorupski
+75,Brest,fr FRA,14,4,1,0,3,6,10,-4,3,"0,75",6.3,8.3,-2.0,"-0,50",P P V P,14.924,"Romain Del Castillo, Mahdi Camara - 2",Marco Bizot
+76,Auxerre,fr FRA,15,4,1,0,3,3,9,-6,3,"0,75",4.1,8.3,-4.2,"-1,05",V P P P,16.354,"Rayan Raveloson, Gaëtan Perrin... - 1",Donovan Léon
+77,Saint-Étienne,fr FRA,16,4,1,0,3,1,7,-6,3,"0,75",2.9,8.7,-5.7,"-1,43",P P P V,16.958,Mathieu Cafaro - 1,Gautier Larsonneur
+78,Mainz 05,de GER,15,3,0,2,1,5,6,-1,2,"0,67",4.5,6.1,-1.6,"-0,52",N N P,31.750,Nadiem Amiri - 2,Robin Zentner
+79,Real Sociedad,es ESP,16,6,1,1,4,3,7,-4,4,"0,67",4.4,8.3,-3.9,"-0,64",V P N P P,33.784,"Takefusa Kubo, Brais Méndez... - 1",Álex Remiro
+80,Getafe,es ESP,18,5,0,3,2,2,4,-2,3,"0,60",3.5,4.6,-1.1,"-0,22",N N N P P,10.229,"Mauro Arambarri, Chrisantus Uche - 1",David Soria
+81,Leicester City,eng ENG,15,4,0,2,2,5,7,-2,2,"0,50",3.3,6.8,-3.5,"-0,88",N P P N,31.851,Jamie Vardy - 2,Mads Hermansen
+82,Crystal Palace,eng ENG,16,4,0,2,2,4,7,-3,2,"0,50",5.6,6.5,-1.0,"-0,24",P P N N,25.099,Jean-Philippe Mateta - 2,Dean Henderson
+83,Como,it ITA,18,4,0,2,2,3,7,-4,2,"0,50",4.4,4.1,+0.3,"0,06",P N P N,,Patrick Cutrone - 2,Pepe Reina
+84,Cagliari,it ITA,19,4,0,2,2,1,6,-5,2,"0,50",4.6,6.0,-1.4,"-0,35",N N P P,,Roberto Piccoli - 1,Simone Scuffet
+85,Ipswich Town,eng ENG,17,4,0,2,2,2,7,-5,2,"0,50",1.5,8.5,-6.9,"-1,73",P P N N,29.766,"Sammie Szmodics, Liam Delap - 1",Arijanet Muric
+86,Las Palmas,es ESP,19,5,0,2,3,6,10,-4,2,"0,40",5.1,9.6,-4.5,"-0,90",N P N P P,27.314,Sandro Ramírez - 3,Jasper Cillessen
+87,Angers,fr FRA,17,4,0,1,3,2,8,-6,1,"0,25",3.3,6.6,-3.3,"-0,82",P P P N,11.990,"Bamba Dieng, Himad Abdelli - 1",Yahia Fofana
+88,Venezia,it ITA,20,4,0,1,3,1,8,-7,1,"0,25",2.3,6.5,-4.2,"-1,05",P N P P,,Magnus Kofod Andersen - 1,Jesse Joronen
+89,Wolves,eng ENG,18,4,0,1,3,4,11,-7,1,"0,25",4.4,5.4,-1.0,"-0,25",P P N P,31.235,"Mario Lemina, Jean-Ricner Bellegarde... - 1","Sam Johnstone, José Sá"
+90,Montpellier,fr FRA,18,4,0,1,3,2,13,-11,1,"0,25",3.2,7.5,-4.3,"-1,07",N P P P,14.353,"Téji Savanier, Akor Adams - 1",Benjamin Lecomte
+91,Valencia,es ESP,20,5,0,1,4,3,10,-7,1,"0,20",3.2,9.4,-6.2,"-1,24",P P P N P,45.265,Hugo Duro - 2,Giorgi Mamardashvili
+92,Bochum,de GER,16,3,0,0,3,1,5,-4,0,"0,00",2.5,7.9,-5.4,"-1,78",P P P,26.000,Myron Boadu - 1,Patrick Drewes
+93,St. Pauli,de GER,17,3,0,0,3,1,6,-5,0,"0,00",2.2,4.9,-2.6,"-0,88",P P P,29.157,Carlo Boukhalfa - 1,Nikola Vasilj
+94,Southampton,eng ENG,19,4,0,0,4,1,8,-7,0,"0,00",4.5,7.9,-3.4,"-0,85",P P P P,31.147,Yukinari Sugawara - 1,"Alex McCarthy, Aaron Ramsdale"
+95,Holstein Kiel,de GER,18,3,0,0,3,3,11,-8,0,"0,00",3.1,8.0,-4.8,"-1,60",P P P,15.034,"Shuto Machino, Alexander Bernhardsson... - 1",Timon Weiner
+96,Everton,eng ENG,20,4,0,0,4,4,13,-9,0,"0,00",4.1,8.3,-4.2,"-1,05",P P P P,39.011,Dominic Calvert-Lewin - 2,Jordan Pickford
